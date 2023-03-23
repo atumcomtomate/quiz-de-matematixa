@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(0, 132, 255) !important;
+}
+#Div_jogador_1, #Div_jogador_2{
+    background-color:white;
+    float:none;
+    padding:10px;
+    border-radius:10px;
+    border: 10px double rgb(0, 81, 255);
+}
+#h1{
+    color:rgb(0, 204, 255)!important;
+}
